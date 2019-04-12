@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 
 # Clicky-Game
 
