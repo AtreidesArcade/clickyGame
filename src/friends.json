@@ -2,84 +2,84 @@
   {
     "id": 1,
     "name": "Jon Snow",
-    "image": "/img/jon_snow.jpg",
+    "image": "./img/jon_snow.jpg",
     "occupation": "King of the North",
     "location": "The North"
   },
   {
     "id": 2,
     "name": "Daenerys Targaryen",
-    "image": "/img/daenerys.jpeg",
+    "image": "./img/daenerys.jpeg",
     "occupation": "Queen of the World",
     "location": "Dragon Stone"
   },
   {
     "id": 3,
     "name": "Jamie Lannister",
-    "image": "/img/jamie.jpeg",
+    "image": "./img/jamie.jpeg",
     "occupation": "Hand of the King",
     "location": "Kings Landing"
   },
   {
     "id": 4,
     "name": "Cersei",
-    "image": "img/cersei.jpeg",
+    "image": "./img/cersei.jpeg",
     "occupation": "Interim Queen",
     "location": "Kings Landing"
   },
   {
     "id": 5,
     "name": "The Hound",
-    "image": "/img/hound.jpeg",
+    "image": "./img/hound.jpeg",
     "occupation": "Knight",
     "location": "Westeros"
   },
   {
     "id": 6,
     "name": "The Mountain",
-    "image": "/img/mountain.jpeg",
+    "image": "./img/mountain.jpeg",
     "occupation": "Evil Knight",
     "location": "Kings Landing"
   },
   {
     "id": 7,
     "name": "Tyrion Lannister",
-    "image": "/img/tyrion.jpeg",
+    "image": "./img/tyrion.jpeg",
     "occupation": "Hand of the Queen",
     "location": "Dragon Stone"
   },
   {
     "id": 8,
     "name": "Sansa Stark",
-    "image": "/img/sansa.jpeg",
+    "image": "./img/sansa.jpeg",
     "occupation": "Lady of Winterfell",
     "location": "Winterfell"
   },
   {
     "id": 9,
     "name": "Arya Stark",
-    "image": "/img/arya.jpeg",
+    "image": "./img/arya.jpeg",
     "occupation": "Man with No Name",
     "location": "Westeros"
   },
   {
     "id": 10,
     "name": "The Night King",
-    "image": "/img/nightKing.jpeg",
+    "image": "./img/nightKing.jpeg",
     "occupation": "Ultimate Evil Ice Villian",
     "location": "Beyond the Wall"
   },
   {
     "id": 11,
     "name": "Drogon",
-    "image": "/img/dragon.jpeg",
+    "image": "./img/dragon.jpeg",
     "occupation": "Protector/Pet",
     "location": "Dragon Stone"
   },
   {
     "id": 12,
     "name": "Bran Stark - 3 eyed Raven",
-    "image": "/img/bran.jpeg",
+    "image": "./img/bran.jpeg",
     "occupation": "3 eyed Raven",
     "location": "Winterfell/Dreamland"
   }

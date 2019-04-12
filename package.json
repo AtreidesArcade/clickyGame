@@ -26,7 +26,7 @@
     "not op_mini all"
   ],
   "main": "index.js",
-  "homepage": "https://jameslfuller.github.io/clickyGame",
+  "homepage": "https://jameslfuller.github.io/clickyGame/",
   "repository": "https://github.com/jameslfuller/clickyGame.git",
   "author": "Luke Fuller <jlfuller007@gmail.com>",
   "license": "MIT"
