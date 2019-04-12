@@ -9,7 +9,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -24,5 +24,10 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "main": "index.js",
+  "homepage": "https://jameslfuller.github.io/clickyGame",
+  "repository": "https://github.com/jameslfuller/clickyGame.git",
+  "author": "Luke Fuller <jlfuller007@gmail.com>",
+  "license": "MIT"
 }
